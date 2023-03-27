@@ -17,7 +17,7 @@
     margin-left: 90px;
 }
 .nav-bar ul li{
-  text-decoration: none;
+  
   display: flex;
     gap: 20px;
     margin-left: 200px;
@@ -26,4 +26,7 @@
 margin-left: 600px;
 margin-top: 20px;
 background-color:green
+}
+.nav-bar a{
+    text-decoration: none;
 }
