@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav-bar{
+    margin-right: 0px;
+    margin-left:0px;
+    margin-top: 20px;
+
+    background-color: green;
+}
+.nav-bar ul{
+    display: flex;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 90px;
+}
+.nav-bar ul li{
+  text-decoration: none;
+  display: flex;
+    gap: 20px;
+    margin-left: 200px;
+}
+.para{
+    background-color: aqua;
+    margin-bottom:opx;
+    margin-top: 0px;
+ margin-left:400px;
+    margin-right: 0px;
+    color: black;
+    
+    /* width:200px;
+    height:200px;
+     */
+}
+.photos{
+    background-color: aqua;
+   padding-left:800px;
+    padding: top 200vh;
+    margin-right: 40px;
+    margin-bottom:800px;
+    width: 200px;
+    height: 200px;
+    
+
+
+
+}
+
+
+

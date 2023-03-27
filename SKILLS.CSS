@@ -1,0 +1,43 @@
+*{
+
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav-bar{
+    margin-right: 0px;
+    margin-left:0px;
+    margin-top: 20px;
+
+    background-color: green;
+}
+.nav-bar ul{
+    display: flex;
+    padding: 20px;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.nav-bar ul li{
+  text-decoration: none;
+  display: flex;
+    gap: 10px;
+    margin-left: 100px;
+}
+.para{
+    color:black;
+    margin-left: 500px;
+    margin-top: 80px;
+    width: 200px;
+    height: 200px;
+    }
+.photos{
+    margin-left: 800px;
+    margin-top: 20px;
+    width: 400px;
+    height: 400px;
+
+
+}
+
+
+
